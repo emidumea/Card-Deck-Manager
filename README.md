@@ -1,4 +1,4 @@
-# Card-Deck-Manager---C-
+# Card-Deck-Manager - C++
 - Developed an application designed for managing and manipulating card decks efficiently
 - Employs a console-based interface with clear prompts and instructions for user interaction
 - The program utilizes linked list data structures for organizing decks and cards, offering a streamlined experience for
